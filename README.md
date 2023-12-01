@@ -11,7 +11,7 @@ The objective is to predict the number depicted inside the image by using Artifi
 ## Dataset
 I used a a subset of the original data to save some computation time. The dataset is provided as a .h5 file. The basic preprocessing steps have been applied on the dataset.
 
-## Final Observations:
+## Final Observations
 
 The total number of trainable parameters in the CNN model 1 were: 267,306
 
